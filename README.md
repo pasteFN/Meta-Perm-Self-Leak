@@ -1,5 +1,5 @@
 # Meta-Perm-Self-Leak
-* To start off this is a paste off of blueberry almost nothing about it is different. I've leaked this about 7 times now but lets leak it again ;)
+* I have to post something for my github
 
 # Paste
 ![paste](https://user-images.githubusercontent.com/128777963/227737163-96549270-540b-40c3-95e4-1ebfd66689c2.png)
